@@ -1,5 +1,6 @@
-# Alfred
+# Who's Alfred K Owusu Ansah
 
 Hello,
 
-I'm an illustrator and designer and i want to diversify by learning how to code
+I'm a student of Data ScienceTech Institute
+and I have interest in learning analytics, Smart cities and Business Analytics
